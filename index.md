@@ -1,7 +1,10 @@
 ---
-layout: home
-title: "Recent Posts"
-tags: [Jekyll, theme, responsive, blog, template]
+layout: post
+title: About Me
+description: "Software engineer. <br/> Web developer. <br/> Never-stopping Learner. <br/> "
+tags: [about, Jekyll, theme, responsive]
 image:
-  feature: typewriter.jpg
+  feature: taiwan.jpg
 ---
+And... A lot of other stuff. Here's my side interests. 
+TODO: other interests...

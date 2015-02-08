@@ -20,7 +20,7 @@ p {
     margin-bottom: $lh;
 }
 
-a, a:visited, a:active {
+a, a:visited, a:active, .name {
     color: $link;
     @include transit(all,0.25s,ease-in-out);
 }

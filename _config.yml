@@ -1,21 +1,18 @@
-title:            Balzac
+title:            DTC
 tagline:          A beautiful theme.
 description:      Describe your website.
 canonical: http://jekyll.gtat.me
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
-  avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
-  # Plug in your disqus shortname!
+  name:           Te-Lung David Chen
+  avatar:         todo
+  bio:            todo
+  email:          d.tchen@ucla.edu
+  twitter:        todo
+  github:         deeTEEcee
+  instagram:      todo
+  location:       "Shinjuku, Tokyo"
 
 tools:
   standards:      "HTML, SCSS, Jekyll"
@@ -24,17 +21,37 @@ tools:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about
+  - title: Blog
+    url: /blog
+  - title: Projects
+    url: /projects
   - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
-    external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
+    url: https://github.com/deeteecee
     external: true
 
+# personal projects
+projects:
+  - name: "Down to English"
+    description: "Learning rails for the first time: one week wireframing and rails and one week developing. The question to myself was how hard is it to learn a new framework and 'deploy' somewhere after only doing web development for a year."
+    url: "http://downtoenglish.herokuapp.com/"
+    image:
+  - name: "Dodge Random Flying Balls Game"
+    description: "Learning iOS, Cocos2D, and getting a touch of what game dev is like"
+    url: "https://www.youtube.com/embed/oOO74rflqMI"
+
+# either side projects or job-related
+contributions:
+  - name: "Independa"
+    url: "http://independa.com/"
+    image:
+  - name: "Conyac"
+    url: "http://conyac.cc/"
+    image: 
+
+
+
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Tokyo/Japan
 future:      true
 highlighter: pygments
 markdown:    kramdown
