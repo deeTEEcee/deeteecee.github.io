@@ -34,7 +34,7 @@ projects:
   - name: "Down to English"
     description: "Learning rails for the first time: one week wireframing and rails and one week developing. The question to myself was how hard is it to learn a new framework and 'deploy' somewhere after only doing web development for a year."
     url: "http://downtoenglish.herokuapp.com/"
-    image:
+    image: ""
   - name: "Dodge Random Flying Balls Game"
     description: "Learning iOS, Cocos2D, and getting a touch of what game dev is like"
     url: "https://www.youtube.com/embed/oOO74rflqMI"
@@ -43,7 +43,7 @@ projects:
 contributions:
   - name: "Independa"
     url: "http://independa.com/"
-    image:
+    image: "independa.png"
   - name: "Conyac"
     url: "http://conyac.cc/"
     image: 
@@ -57,6 +57,7 @@ highlighter: pygments
 markdown:    kramdown
 
 kramdown:
+  input: GFM
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
