@@ -2,7 +2,7 @@
 layout: post-light-feature
 title: "Tip: putting git on cron"
 description:
-category: articles
+category: tip
 tags: [sample post, readability, test]
 ---
 
