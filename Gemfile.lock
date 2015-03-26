@@ -74,3 +74,4 @@ DEPENDENCIES
   jekyll (~> 2.5.3)
   jekyll-minibundle
   rake
+  redcarpet

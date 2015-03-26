@@ -11,5 +11,5 @@ Apparently there's problems with using git in https in the bash script or cronta
 "https://{token}@github.com/username/project.git
 ```
 
-For reference: 
+For reference:
 https://github.com/kemayo/sublime-text-git/issues/176#issuecomment-73464489

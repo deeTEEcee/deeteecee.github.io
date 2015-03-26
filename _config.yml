@@ -38,6 +38,9 @@ projects:
   - name: "Dodge Random Flying Balls Game"
     description: "Learning iOS, Cocos2D, and getting a touch of what game dev is like"
     url: "https://www.youtube.com/embed/oOO74rflqMI"
+  - name: "StackOverflow Clone"
+    description: "Initially created for interview purposes but I see myself continuing to add to it just for learning purposes."
+    url: "http://stack-overflow-clone.herokuapp.com/"
 
 # either side projects or job-related
 contributions:
@@ -46,7 +49,7 @@ contributions:
     image: "independa.png"
   - name: "Conyac"
     url: "http://conyac.cc/"
-    image: 
+    image:
 
 
 
@@ -54,7 +57,10 @@ contributions:
 timezone:    Tokyo/Japan
 future:      true
 highlighter: pygments
-markdown:    kramdown
+markdown: redcarpet
+
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
 
 kramdown:
   input: GFM
