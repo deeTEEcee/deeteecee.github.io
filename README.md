@@ -3,6 +3,8 @@ Purpose:
 - to see how this kind of a static site is different from a bigger, servicing site
 
 TODO:
+- move this to private repository and still be able to host site (option: https://github.com/Glavin001/GitLab-Pages)
+
 - learn what tools are being used (modernizer, etc.)
 - add "small description" for what contribution projects are and what projects are
 - fix color for my DTC label on the top left
