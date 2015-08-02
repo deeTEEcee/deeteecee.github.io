@@ -34,7 +34,9 @@
 
 <!-- Fresh Squeezed jQuery -->
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script src="{{ site.url }}/assets/js/vendor/jquery.min.js"></script>
+<script src="{{ site.url }}/assets/js/vendor/imagesloaded.pkgd.min.js"></script>
+<script src="{{ site.url }}/assets/js/vendor/masonry.min.js"></script>
 
 <meta http-equiv="cleartype" content="on">
 
@@ -59,7 +61,7 @@
             <li>
               <a href="/" title="{{ site.title }}">Home</a>
             </li>
-            
+
             {% for link in site.links %}
                 <li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
             {% endfor %}
