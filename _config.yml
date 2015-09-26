@@ -33,25 +33,27 @@ links:
 
 # personal projects
 projects:
-  - name: "Down to English"
-    description: "Learning rails for the first time: one week wireframing and rails and one week developing. The question to myself was how hard is it to learn a new framework and 'deploy' somewhere after only doing web development for a year."
-    url: "http://downtoenglish.herokuapp.com/"
-    image: ""
-  - name: "Dodge Random Flying Balls Game"
-    description: "Learning iOS, Cocos2D, and getting a touch of what game dev is like"
-    url: "https://www.youtube.com/embed/oOO74rflqMI"
-  - name: "StackOverflow Clone"
-    description: "Initially created for interview purposes but I see myself continuing to add to it just for learning purposes."
-    url: "http://stack-overflow-clone.herokuapp.com/"
+  - name: "react-calendar"
+    description: "google-calendar-like react component"
+    url: "https://github.com/deeTEEcee/react-calendar"
+  - name: "relocation lifestyle"
+    description: "crowd-sourcing resources for relocation or foreign country resources"
+    url: ""
 
 # either side projects or job-related
-contributions:
-  - name: "Independa"
-    url: "http://independa.com/"
-    image: "independa.png"
-  - name: "Conyac"
-    url: "http://conyac.cc/"
-    image:
+personal_history:
+  - name: "rakuten-scraper"
+    description: "how to web scrape a huge site like rakuten"
+    url: "https://github.com/deeteecee/rakuten-scraper"
+  - name: "stack-overflow-clone"
+    description: "created while learning how mongodb works along with web sockets"
+    url: "http://stack-overflow-clone.herokuapp.com/"
+  - name: "urbandictionary-like site"
+    description: "a desire to make a non-slang version of urbandictionary (making the transition from django -> rails)"
+    url: "http://downtoenglish.herokuapp.com/"
+  - name: "dodge game"
+    description: "learning iOS, Cocos2D, and getting a touch of what game dev is like"
+    url: "https://www.youtube.com/embed/oOO74rflqMI"
 
 
 
