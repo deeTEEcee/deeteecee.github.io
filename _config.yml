@@ -33,12 +33,12 @@ links:
 
 # personal projects
 projects:
+  - name: "instagram tag viewer"
+    description: "view the most recent instagram pic/videos by tags and a start date"
+    url: "https://github.com/deeTEEcee/instagram-tag-viewer"
   - name: "react-calendar"
     description: "google-calendar-like react component"
     url: "https://github.com/deeTEEcee/react-calendar"
-  - name: "relocation lifestyle"
-    description: "crowd-sourcing resources for relocation or foreign country resources"
-    url: ""
 
 # either side projects or job-related
 personal_history:
