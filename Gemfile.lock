@@ -77,6 +77,3 @@ DEPENDENCIES
   jekyll-minibundle
   rake
   redcarpet
-
-BUNDLED WITH
-   1.10.5
