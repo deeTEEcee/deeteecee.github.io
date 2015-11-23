@@ -12,7 +12,7 @@ owner:
   twitter:        todo
   github:         deeTEEcee
   instagram:      todo
-  location:       "Shinjuku, Tokyo"
+  # location:       "Shinjuku, Tokyo"
 
 tools:
   standards:      "HTML, SCSS, Jekyll"
@@ -58,7 +58,7 @@ personal_history:
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Tokyo/Japan
+timezone:    America/Los_Angeles
 future:      true
 highlighter: pygments
 markdown: redcarpet
